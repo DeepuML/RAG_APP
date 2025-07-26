@@ -1,0 +1,48 @@
+Meta is preparing to unveil a new artificial intelligence research lab dedicated to pursuing “superintelligence,” a hypothetical A.I. system that exceeds the powers of the human brain, as the tech giant jockeys to stay competitive in the technology race, according to four people with knowledge of the company’s plans.
+
+Meta has tapped Alexandr Wang, 28, the founder and chief executive of the A.I. start-up Scale AI, to join the new lab, the people said, and has been in talks to invest billions of dollars in his company as part of a deal that would also bring other Scale AI employees to the company. Meta has offered seven- to nine-figure compensation packages to dozens of researchers from leading A.I. companies such as OpenAI and Google, with some agreeing to join, according to the people.
+
+The new lab is part of a larger reorganization of Meta’s A.I. efforts, the people said. The company, which owns Facebook, Instagram and WhatsApp, has recently grappled with internal management struggles over the technology, as well as employee churn and several product releases that fell flat, two of the people said.
+
+Mark Zuckerberg, Meta’s chief executive, has invested billions of dollars into turning his company into an A.I. powerhouse. Since OpenAI released the ChatGPT chatbot in 2022, the tech industry has raced to build increasingly powerful A.I. Mr. Zuckerberg has pushed his company to incorporate A.I. across its products, including in its smart glasses and a recently released app, Meta AI.
+
+Staying in the race is crucial for Meta, Google, Amazon and Microsoft, with the technology likely to be the future for the industry. The giants have pumped money into start-ups and their own A.I. labs. Microsoft has invested more than $13 billion in OpenAI, while Amazon has plowed $8 billion into the A.I. start-up Anthropic.
+
+The behemoths have also spent billions to hire employees from high-profile start-ups and license their technology. Last year, Google agreed to pay $3 billion to license technology and hire technologists and executives from Character.AI, a start-up that builds chatbots for personal conversations.
+
+In February, Mr. Zuckerberg, 41, called A.I. “potentially one of the most important innovations in history.” He added, “This year is going to set the course for the future.”
+
+Meta and Scale AI declined to comment. Bloomberg earlier reported that Mr. Wang was joining the new Meta lab.
+
+Superintelligence is regarded by leading researchers to be a futuristic goal of A.I. development. OpenAI, Google and others have said their immediate aim is to build “artificial general intelligence,” or A.G.I., shorthand for a machine that can do anything the human brain can do, which is an ambition with no clear path to success. Superintelligence, if it can be developed, would go beyond A.G.I. in its power.
+
+Meta has invested in A.I. for more than a decade. Mr. Zuckerberg created the company’s first dedicated A.I. lab in 2013, after losing out to Google in trying to acquire a seminal start-up called DeepMind. DeepMind is now the core of Google’s A.I. efforts.
+
+Since then, Meta’s research efforts have been overseen by its chief A.I. scientist, Yann LeCun, who is also a New York University professor. Dr. LeCun is a pioneer of neural networks, the technology that drives ChatGPT and similar systems.
+
+After ChatGPT caused an explosion of interest in A.I., Meta deployed additional resources to pursue the technology. It created a generative A.I. group, led by Ahmad Al-Dahle, a company vice president. Dr. LeCun’s research group also began working on what he saw as the next generation of A.I.
+
+Dr. LeCun, who was among three A.I. researchers who won the 2018 Turing Award, often called the Nobel Prize of computing, is highly respected across the field. But his views on A.I differ from others in Silicon Valley. Whereas some believe that current technologies will reach A.G.I. over the next few years, Dr. LeCun has said entirely new ideas are needed to reach this lofty goal.
+
+One of Meta’s strategies for gaining ground in A.I. has been to “open source” its software, essentially giving away its A.I. code freely so that developers and others adopt its tools. The company released an open-source A.I. model, Llama, and its chatbot product, Meta AI. Meta AI was incorporated across Facebook, Instagram and WhatsApp, as well as in its Ray-Ban smart glasses. In May, Mr. Zuckerberg said more than one billion people used Meta AI every month.
+
+More recently, Meta’s A.I. division has lost employees to rival companies, according to two people familiar with the matter. The departures were the result of a grueling pace of product development, infighting among team leaders and a tight labor market.
+
+In April, Mr. Zuckerberg announced two new versions of Meta’s Llama A.I. models, which he claimed performed as well as or better than comparable models from OpenAI and Google, according to testing benchmarks compiled by Meta.
+
+Soon after, outside researchers found that Meta’s benchmarks were designed to make one product look more sophisticated than it was. Some developers were incensed at what they saw as Meta’s trickery.
+
+But not as incensed as Mr. Zuckerberg, who was upset that people thought he was trying to paper over the poor performance of the latest release, two of the people said.
+
+
+Meta is now betting that Mr. Wang will help it get back into pole position in the A.I. race.
+
+It must do so carefully. The Federal Trade Commission recently took Meta to trial in federal court over its acquisitions of Instagram and WhatsApp. An unusually structured investment deal with Scale AI could help Meta sidestep some of those concerns.
+
+Mr. Wang founded Scale AI in 2016 alongside Lucy Guo, an engineer who was later fired by the company. Scale AI helped other businesses build A.I. technologies. It hired armies of contract workers to sift through vast amounts of data, labeling and “cleaning” the information so it could be used to train complex A.I. systems. Scale AI’s customers included OpenAI, Microsoft and Cohere, an A.I. start-up in Toronto.
+
+More recently, Scale AI has worked to build its enterprise and public sector businesses, dispatching consultants and engineers to work with companies and governments to help build software that uses A.I.
+
+Mr. Wang once lived in the same house as OpenAI’s chief executive, Sam Altman. In January, the two were photographed side by side at the Capitol for the inauguration of President Trump. The next day, Scale AI placed an ad in The Washington Post in which Mr. Wang called on Mr. Trump to increase investment in A.I. or risk falling behind China.
+
+“Dear President Trump,” the ad said, “America must win the A.I. war.”
